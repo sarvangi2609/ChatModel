@@ -1,1 +1,21 @@
+# Ignore environment files
 .env
+
+# Python cache & virtual env
+__pycache__/
+*.pyc
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Audio/temp files
+*.wav
+*.mp3
+*.webm
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
