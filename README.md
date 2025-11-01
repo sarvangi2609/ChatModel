@@ -1,9 +1,5 @@
 
-<!-- Chitti - Friendly Voice Chatbot -->
-
-Quick Overview : 
-
-    Chitti is a fun, voice-enabled chatbot that chats like your childhood best friend in English, Hindi, or Gujarati. Supports text/voice input with auto-language detection. Built with FastAPI backend and simple HTML frontend.
+<h5>Chitti - Friendly Voice Chatbot <\h5>
 
 Requirements :
 
