@@ -20,3 +20,7 @@ chat_history.json
 # System files
 .DS_Store
 Thumbs.db
+.env
+myenv/
+__pycache__/
+*.pyc
