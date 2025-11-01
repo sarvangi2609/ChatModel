@@ -1,0 +1,21 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Heyyy! Long time no talk! 😂 What's up?"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! You're repeating yourself, dude! 😜 What's going on?"
+    }
+  ],
+  "language": "english"
+}

@@ -19,9 +19,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# @app.get("/")
-# def home():
-#     return {"message": "Backend is running ✅"}
 
 # Serve HTML frontend
 @app.get("/", response_class=HTMLResponse)
