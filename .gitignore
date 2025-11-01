@@ -5,6 +5,7 @@
 __pycache__/
 *.pyc
 venv/
+chat_history.json
 
 # IDE files
 .vscode/
